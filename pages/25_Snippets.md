@@ -6,7 +6,7 @@ Berhubung di mata kuliah PBO ini diminta untuk menguasai implementasi PBO di bah
 <div class="text-center mt-16">
 Repository tersebut bisa diakses melalui tautan berikut :
 
-<span class="text-2xl">[snippets-PBO-01](https://github.com/praktikum-tiunpad-2023/snippets-PBO-01)</span>
+<span class="text-2xl">[snippets-PBO-01](https://github.com/praktikum-ti-unpad-2024/snippets-PBO-01)</span>
 </div>
 
 Silahkan untuk kalian mencoba menjalankan dan mempelajari snippets yang disediakan pada repository tersebut. Selamat belajar!

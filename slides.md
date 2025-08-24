@@ -68,72 +68,77 @@ src: ./pages/12_Membuat Objek.md
 ---
 
 ---
-src: ./pages/13_Judul Input Output.md
+src: ./pages/13_Visualisasi Objek.md
 ---
 
 ---
-src: ./pages/14_Input Output.md
+src: ./pages/14_Judul Input Output.md
 ---
 
 ---
-src: ./pages/15_Judul Basic Statement.md
+src: ./pages/15_Input Output.md
 ---
 
 ---
-src: ./pages/16_Basic Statement.md
+src: ./pages/16_Judul Basic Statement.md
 ---
 
 ---
-src: ./pages/17_Judul Compile Run.md
+src: ./pages/17_Basic Statement.md
 ---
 
 ---
-src: ./pages/18_Compile Run.md
+src: ./pages/18_Judul Compile Run.md
 ---
 
 ---
-src: ./pages/19_Important Things.md
+src: ./pages/19_Compile Run.md
 ---
 
 ---
-src: ./pages/20_Judul Built In Method.md
+src: ./pages/20_Important Things.md
 ---
 
 ---
-src: ./pages/21_Built In Method 1.md
+src: ./pages/21_Judul Built In Method.md
 ---
 
 ---
-src: ./pages/22_Built In Method 2.md
----
----
-src: ./pages/23_Snippets.md
+src: ./pages/22_Built In Method 1.md
 ---
 
 ---
-src: ./pages/23_Judul Exercise.md
+src: ./pages/23_Built In Method 2.md
 ---
 
 ---
-src: ./pages/24_Exercise1.md
+src: ./pages/24_Judul Exercise.md
 ---
 
 ---
-src: ./pages/25_Exercise2.md
+src: ./pages/25_Snippets.md
 ---
 
 ---
-src: ./pages/26_Teknis Pengumpulan 1.md
+src: ./pages/26_Exercise1.md
 ---
 
 ---
-src: ./pages/27_Teknis Pengumpulan 2.md
+src: ./pages/27_Exercise2.md
 ---
 
 ---
-src: ./pages/28_Deadline.md
+src: ./pages/28_Teknis Pengumpulan 1.md
 ---
 
 ---
-src: ./pages/29_Terima Kasih.md
+src: ./pages/29_Teknis Pengumpulan 2.md
+---
+
+---
+src: ./pages/30_Deadline.md
+---
+
+---
+src: ./pages/31_Terima Kasih.md
 ---

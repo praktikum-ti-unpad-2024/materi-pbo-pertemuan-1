@@ -16,7 +16,7 @@ Contoh Format
   Nama	    : Jane Doe
   NPM		: 140810230099
   Kelas		: A
-  Tanggal	: 28 Agustus 2024
+  Tanggal	: 26 Agustus 2025
   Deskripsi	: Class jawaban exercise-01 soal-01
 */
 
