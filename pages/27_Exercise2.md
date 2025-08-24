@@ -34,6 +34,6 @@ Mie dengan harga Rp 10000 sangat mantap
 <details class='p-2 flex flex-col'>
 <summary class='text-xs text-white font-extrabold uppercase text-yellow'>Hint</summary>
 <span class='text-xs'>
-gunakan 2 file berbeda dalam satu folder (<span class='text-teal font-bold'>Makanan.java</span> dan <span class='text-teal font-bold'>Test.java</span>), buat 2 method setter dan getter (masing-masing untuk nama dan npm)
+gunakan 2 file berbeda dalam satu folder (<span class='text-teal font-bold'>Makanan.java</span> dan <span class='text-teal font-bold'>Test.java</span>), buat 3 method setter dan getter (masing-masing untuk nama, harga, dan rating)
 </span>
 </details>
